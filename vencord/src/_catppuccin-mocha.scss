@@ -1,0 +1,5 @@
+@use "catppuccin-base";
+
+code {
+  @include catppuccin-base.highlights("mocha", "hex");
+}
