@@ -1,0 +1,30 @@
+:root {
+    --rosewater: rgb(245, 224, 220);
+    --flamingo: rgb(242, 206, 206);
+    /* Based on #CB00C3 (fuchsia) */
+    --pink: rgb(245, 194, 243);
+    --mauve: rgb(203, 166, 247);
+    --red: rgb(243, 139, 168);
+    --maroon: rgb(235, 160, 172);
+    --peach: rgb(250, 179, 135);
+    --yellow: rgb(249, 226, 175);
+    --green: rgb(166, 227, 161);
+    --teal: rgb(148, 226, 213);
+    --sky: rgb(137, 220, 235);
+    --sapphire: rgb(116, 199, 236);
+    --lavender: rgb(180, 190, 254);
+    --blue: rgb(137, 180, 250);
+    --text: rgb(202, 180, 238);
+    --subtext1: rgb(183, 165, 212);
+    --subtext0: rgb(163, 147, 189);
+    --overlay2: rgb(135, 121, 160);
+    --overlay1: rgb(123, 109, 141);
+    --overlay0: rgb(103, 93, 116);
+    --surface2: rgb(83, 74, 94);
+    --surface1: rgb(63, 55, 72);
+    --surface0: rgb(43, 36, 50); /* 236 + 34 */
+    --base: rgb(24, 17, 28);
+    --mantle: rgb(14, 10, 16);
+    --crust: rgb(3, 2, 3);
+    /* --shadow: #010409; */
+}

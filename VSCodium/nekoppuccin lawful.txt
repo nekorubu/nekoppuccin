@@ -1,0 +1,19 @@
+copy this into settings.json with the Catppuccin theme
+
+"catppuccin.colorOverrides": {
+        "mocha": {
+            "pink": "#f5c2f3",
+            "text": "#cab4ee",
+            "subtext1": "#b7a5d4",
+            "subtext0": "#a393bd",
+            "overlay2": "#8779a0",
+            "overlay1": "#7b6d8d",
+            "overlay0": "#675d74",
+            "surface2": "#534a5e",
+            "surface1": "#3f3748",
+            "surface0": "#2b2432",
+            "base": "#18111c",
+            "mantle": "#0e0a10",
+            "crust": "#030203",
+        }
+    },

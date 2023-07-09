@@ -1,0 +1,16 @@
+{
+    "gui.showmeyourskin.armorScreen.title": "§7Настройка брони",
+    "gui.showmeyourskin.armorScreen.title.serverIntegrated": "§7Настройка брони (Сервер)",
+    "gui.showmeyourskin.armorScreen.title.serverOverrides": "§7Настройка брони (Локальные переопределения)",
+    "gui.showmeyourskin.armorScreen.global": "§7Общие",
+    "gui.showmeyourskin.armorScreen.synced": "§7Синхронизировано",
+    "gui.showmeyourskin.armorScreen.overridden": "§7Переопределено",
+    "gui.showmeyourskin.armorScreen.playerName": "§7%s",
+    "gui.showmeyourskin.armorScreen.playerSelector": "§7Настройка брони",
+    "gui.showmeyourskin.armorScreen.piece.head": "§7Шлем: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.chest": "§7Нагрудник: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.legs": "§7Поножи: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.feet": "§7Ботинки: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.elytra": "§7Элитры: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.shield": "§7Щит: %d%%"
+}

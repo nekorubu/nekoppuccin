@@ -1,0 +1,16 @@
+{
+    "gui.showmeyourskin.armorScreen.title": "§fArmor Config",
+    "gui.showmeyourskin.armorScreen.title.serverIntegrated": "§fArmor Config (Server)",
+    "gui.showmeyourskin.armorScreen.title.serverOverrides": "§fArmor Config (Local Overrides)",
+    "gui.showmeyourskin.armorScreen.global": "§fGlobal",
+    "gui.showmeyourskin.armorScreen.synced": "§fSynced",
+    "gui.showmeyourskin.armorScreen.overridden": "§fOverridden",
+    "gui.showmeyourskin.armorScreen.playerName": "§f%s",
+    "gui.showmeyourskin.armorScreen.playerSelector": "§fArmor Config",
+    "gui.showmeyourskin.armorScreen.piece.head": "§fHelmet: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.chest": "§fChestplate: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.legs": "§fLeggings: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.feet": "§fBoots: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.elytra": "§fElytra: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.shield": "§fShield: %d%%"
+}

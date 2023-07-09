@@ -1,0 +1,8 @@
+{
+    "gui.showmeyourskin.armorScreen.global": "§7全局",
+    "gui.showmeyourskin.armorScreen.playerSelector": "§7护甲配置",
+    "gui.showmeyourskin.armorScreen.piece.head": "§7头盔: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.chest": "§7胸甲: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.legs": "§7护腿: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.feet": "§7靴子: %d%%"
+}

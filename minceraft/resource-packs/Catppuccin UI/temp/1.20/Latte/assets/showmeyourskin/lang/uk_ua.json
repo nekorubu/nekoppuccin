@@ -1,0 +1,8 @@
+{
+    "gui.showmeyourskin.armorScreen.global": "§7Глобальнi параметри",
+    "gui.showmeyourskin.armorScreen.playerSelector": "§7Налаштування бронi",
+    "gui.showmeyourskin.armorScreen.piece.head": "§7Шолом: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.chest": "§7Нагрудник: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.legs": "§7Наголінники: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.feet": "§7Чоботи: %d%%"
+}

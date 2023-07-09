@@ -1,0 +1,10 @@
+{
+    "gui.showmeyourskin.armorScreen.global": "§7Globaal",
+    "gui.showmeyourskin.armorScreen.playerSelector": "§7Harnas Configuratie",
+    "gui.showmeyourskin.armorScreen.piece.head": "§7Helm: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.chest": "§7Kuras: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.legs": "§7Beenstukken: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.feet": "§7Laarzen: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.elytra": "§7Dekschild: %d%%",
+    "gui.showmeyourskin.armorScreen.piece.shield": "§7Schild: %d%%"
+}
