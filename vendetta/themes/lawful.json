@@ -1,7 +1,7 @@
 {
-	"name": "Lawful",
+	"name": "lawful nekoppuccin",
 	"version": "1.7",
-	"description": "Lawful nekoppuccin.",
+	"description": "a calmer type of chaos",
 	"color": "#f5c2f3",
 	"authors": [
 		{
@@ -22,7 +22,7 @@
 		"ACTIVITY_CARD_BACKGROUND": ["#18111c", "#18111c"],
 		"BACKGROUND_ACCENT": ["#0e0a10", "#0e0a10"],
 		"BACKGROUND_FLOATING": ["#0e0a10", "#0e0a10"],
-		"BACKGROUND_MENTIONED": ["#fab387", "#fab387"],
+		"BACKGROUND_MENTIONED": ["#3f3748", "#3f3748"],
 		"BACKGROUND_MENTIONED_HOVER": ["#f9e2af", "#f9e2af"],
 		"BACKGROUND_MESSAGE_HOVER": ["#585b70", "#585b70"],
 		"BACKGROUND_MOBILE_PRIMARY": ["#0e0a10", "#0e0a10"],
